@@ -24,12 +24,12 @@
 
 ### 👺 About Me
 
-I am a **Junior Machine Learning/AI Engineer** based in **Bandung, Indonesia**. I specialize in building end-to-end applications, blending robust Full-Stack foundations with advanced Generative AI technologies like RAG and Fine-Tuning.
+[span_0](start_span)I am a **Junior Machine Learning/AI Engineer** based in **Bandung, Indonesia**[span_0](end_span). [span_1](start_span)I specialize in building end-to-end applications, blending robust Full-Stack foundations with advanced Generative AI technologies like RAG and Fine-Tuning[span_1](end_span).
 
-* 🔭 **Current Focus:** Developing AI Platforms (RAG, GenAI) and Fine-tuning models (Meta/Replicate).
-* 🌱 **Education:** Information Systems at *Universitas Terbuka* & Machine Learning Learning Path at *Dicoding*.
-* 🥋 **Philosophy:** My approach to code is influenced by **Brazilian Jiu-Jitsu**—focusing on strategy, position control, and efficiency rather than brute force.
-* ⚡ **Soft Skills:** Persuasive communication, leadership, and adaptability (honed through General Affair & Coaching roles).
+* [span_2](start_span)[span_3](start_span)🔭 **Current Focus:** Developing AI Platforms (RAG, GenAI) and Fine-tuning models (Meta/Replicate)[span_2](end_span)[span_3](end_span).
+* [span_4](start_span)🌱 **Education:** Information Systems at *Universitas Terbuka* & Machine Learning Learning Path at *Dicoding*[span_4](end_span).
+* [span_5](start_span)🥋 **Philosophy:** My approach to code is influenced by **Brazilian Jiu-Jitsu**—focusing on strategy, position control, and efficiency rather than brute force[span_5](end_span).
+* [span_6](start_span)[span_7](start_span)[span_8](start_span)⚡ **Soft Skills:** Persuasive communication, leadership, and adaptability (honed through General Affair & Coaching roles)[span_6](end_span)[span_7](end_span)[span_8](end_span).
 
 ---
 
@@ -42,20 +42,6 @@ I am a **Junior Machine Learning/AI Engineer** based in **Bandung, Indonesia**. 
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 | **Backend** | ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![NextAuth](https://img.shields.io/badge/NextAuth.js-black?style=flat-square&logo=next.js&logoColor=white) |
 | **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) |
-
----
-
-### 🏯 Featured Projects
-
-<div align="center">
-
-| **Vibely.pw (AI Creative Platform)** | **OtLogo (GenAI Design)** | **OtResep (Culinary Hub)** |
-| :---: | :---: | :---: |
-| An AI-powered creative suite featuring **RAG Chatbot (GPT 4.1)** capable of interacting with PDFs, Videos, and GitHub repos. Includes Text-to-Video generation. | A Generative AI web application that transforms text descriptions into unique logo designs. Built with React.js and advanced AI APIs. | A full-stack recipe sharing platform with modern architecture, category filtering, and community contribution features. |
-| ![Vibely](https://img.shields.io/badge/Status-Active-success) | ![OtLogo](https://img.shields.io/badge/Status-Completed-blue) | ![OtResep](https://img.shields.io/badge/Status-Completed-blue) |
-| [View Demo](https://youtu.be/8KolwCQi4xs) | [View Demo](https://youtu.be/AmeXM55LgL4) | [View Repo](https://github.com/otaruram/OtResep) |
-
-</div>
 
 ---
 
