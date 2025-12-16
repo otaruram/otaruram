@@ -58,4 +58,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e84393,100:2d3436&height=100&section=footer&text=Let's%20Collaborate!&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</div>
+</div
