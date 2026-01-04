@@ -58,10 +58,10 @@ Berikut adalah purwarupa sistem (*prototypes*) yang saya bangun untuk menyelesai
 
 ### 📈 GitHub Analytics
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=otaruram&show_icons=true&hide_border=true&count_private=true&theme=graywhite" height="150" alt="stats graph" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=otaruram&show_icons=true&theme=default&hide_border=true&locale=id" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaruram&layout=compact&theme=default&hide_border=true" height="150" alt="Top Languages" />
 </div>
-
 <br/>
 <hr/>
 <div align="center">
