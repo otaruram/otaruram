@@ -56,17 +56,10 @@ Berikut adalah purwarupa sistem (*prototypes*) yang saya bangun untuk menyelesai
 
 ---
 
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otaruram&show_icons=true&theme=default&hide_border=true&locale=id" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaruram&layout=compact&theme=default&hide_border=true" height="150" alt="Top Languages" />
-</div>
 <br/>
-<hr/>
-<div align="center">
-  <p><i>Ready to discuss Supply Chain Optimization?</i></p>
-  <a href="https://www.linkedin.com/in/otaruram/">
-    <img src="https://img.shields.io/badge/Let's_Connect-000000?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
+<div align="left" style="border-left: 4px solid #333; padding-left: 20px;">
+  <p style="font-style: italic; color: #555;">
+    "Efisiensi bukan tentang mengganti manusia dengan mesin, tapi tentang menghilangkan hambatan agar manusia bisa bekerja lebih cerdas."
+  </p>
+  <p style="font-weight: bold; font-size: 12px;">— Oki Taruna | Supply Chain Technologist</p>
 </div>
